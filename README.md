@@ -20,7 +20,6 @@ GET /superheroes - fetch all the superheroes by "humbleScore"
    npm start
    ```
    And then application will be ready on port 3000<br>
-   Don't forget to run the back end application
 
 ## If I had more time
 
