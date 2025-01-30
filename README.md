@@ -2,7 +2,7 @@
 
 Available endpoints
 
-POST /superheroes - creates new superheroe with corresponding properties
+POST /superheroes - creates new superheroe with corresponding properties <br>
 GET /superheroes - fetch all the superheroes by "humbleScore"
 
 ## Installation
