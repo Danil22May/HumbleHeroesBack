@@ -3,6 +3,8 @@ import { Injectable } from '@nestjs/common';
 
 @Injectable()
 export class SuperHeroesService {
+  // it would be better to save this in a real database or separate this array in
+  // individual file and add incrementing "id" functionality
   private heroes = [
     {
       name: 'Moriarti',
