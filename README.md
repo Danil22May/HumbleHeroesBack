@@ -9,7 +9,7 @@ GET /superheroes - fetch all the superheroes by "humbleScore"
 
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/Danil22May/HumbleHeroesBack.git
    ```
 2. Install all dependencies
    ```bash
